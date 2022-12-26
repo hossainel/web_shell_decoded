@@ -1,4 +1,4 @@
-# web_shell_decoded
+# Decoded Webshells
 - 1n73ctionShell
 - AngelShell
 - LocusShell
